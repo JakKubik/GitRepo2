@@ -1,0 +1,27 @@
+{
+  "name": "testpackage",
+  "version": "1.0.0",
+  "description": "Test package for QAA",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakKubik/GitRepo2.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Jakub Kubik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakKubik/GitRepo2/issues"
+  },
+  "homepage": "https://github.com/JakKubik/GitRepo2#readme",
+  "dependencies": {
+    "https": "^1.0.0",
+    "node-fetch": "^3.2.10"
+  }
+}
